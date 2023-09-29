@@ -47,14 +47,15 @@ Estamos comprometidos em fornecer a você uma ferramenta poderosa para aprimorar
 <table>
  <tr> 
     <td align="center"> <img  src="https://github.com/MARVSupport/.github/assets/114708609/7b5a51e0-e429-4e14-b6a9-4cf0e66ebc8c" width=100px> <br/> Jéssica Castro </td>
-    <td align="center"> <img  src="https://github.com/MARVSupport/.github/assets/114708609/4ee221ba-c48d-49a1-be97-32cc64585212" width=100px> <br/> Jose Soares </td>
-    <td align="center"> <img  src="https://github.com/MARVSupport/.github/assets/114708609/9bd5e0c4-0619-484f-9d46-c9a84daf5a1f" width=100px> <br/> Natália F. </td>
+    <td align="center"> <img  src="https://github.com/MARVSupport/.github/assets/114708609/8b1cdf33-7a0d-450d-82a6-20f26e9a294a" width=100px> <br/> Jose Soares </td>
+    <td align="center"> <img  src="https://github.com/MARVSupport/.github/assets/114708609/1c98a25d-d9a6-4b61-8f2e-067fa04ee8c8" width=100px> <br/> Natália F. </td>
     <td align="center"> <img  src="https://github.com/MARVSupport/.github/assets/114708609/db4b9ccf-c42e-4277-ac8b-c234cfa0fe92" width=100px> <br/> Marlon H. </td>
     <td align="center"> <img  src="https://github.com/MARVSupport/.github/assets/114708609/7469f81d-0069-4d0a-b034-a6acc22995ba" width=100px> <br/> Rebeca Louise </td>
     <td align="center"> <img  src="https://github.com/MARVSupport/.github/assets/114708609/5656a4ba-4cab-48d1-8f32-71433106f2d2" width=100px> <br/> Taise Ferreira </td>
     <td align="center"> <img  src="https://github.com/MARVSupport/.github/assets/114708609/7b7214ae-7537-448b-9adc-63f94e8dd328" width=100px> <br/> Victor Silva </td>
     </tr>
 </table> 
+
 
 ## Licença
 Este projeto esta de acordo com a licença [MIT](./LICENSE).
