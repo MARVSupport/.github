@@ -29,8 +29,9 @@ Estamos comprometidos em fornecer a você uma ferramenta poderosa para aprimorar
 
 ## Layout
 
-<img  src="https://github.com/MARVSupport/Perfil/assets/114708609/1e806781-eb82-44f7-8901-30d2491427f7"  width="300px;">  <img src="https://github.com/MARVSupport/Perfil/assets/114708609/a76a143b-e1fb-4944-b55f-7de05d22d9ed" width="610">
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Tela de login   $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$       Tela inicial <p/>
+<p align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/1e806781-eb82-44f7-8901-30d2491427f7"  width="600px;"> </p>
+<img src="https://github.com/MARVSupport/Perfil/assets/114708609/a76a143b-e1fb-4944-b55f-7de05d22d9ed" width="610">
+
  
 ## Guia do usuário
 <p align="justify">1️⃣ Faça login na interface do software utilizando suas credenciais.</p>
