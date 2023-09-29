@@ -30,7 +30,7 @@ Estamos comprometidos em fornecer a você uma ferramenta poderosa para aprimorar
 ## Layout
 
 <p align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/1e806781-eb82-44f7-8901-30d2491427f7"  width="600px;"> </p>
-<img src="https://github.com/MARVSupport/Perfil/assets/114708609/a76a143b-e1fb-4944-b55f-7de05d22d9ed" width="610">
+<p align="center"> <img src="https://github.com/MARVSupport/Perfil/assets/114708609/a76a143b-e1fb-4944-b55f-7de05d22d9ed" width="610">
 
  
 ## Guia do usuário
@@ -46,9 +46,9 @@ Estamos comprometidos em fornecer a você uma ferramenta poderosa para aprimorar
 
 <table>
  <tr> 
-    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/b1e3ff0d-09fd-431b-a939-2ba0d85796cf" width=120px> <br/> Jéssica Castro </td>
-    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/1202f1ae-d088-4dc8-8ed4-e248f4caf831" width=120px> <br/> Jose Soares </td>
-    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/b88d7774-7503-47d9-948e-91caabde01f6" width=120px> <br/> Natália F. </td>
-    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/d67a297e-8a1c-477d-b362-9a8f66582743" width=120px> <br/> Marlon H. </td>
-    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/38d26713-0fd1-4402-a8d8-4e2aeb1a41ad" width=120px> <br/> Rebeca Louise </td>
-    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/bb8c7630-56b9-4543-a159-d45c2f4c6617" width=120px> <br/> Taise Ferreira </td>
+    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/b1e3ff0d-09fd-431b-a939-2ba0d85796cf" width=100px> <br/> Jéssica Castro </td>
+    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/1202f1ae-d088-4dc8-8ed4-e248f4caf831" width=100px> <br/> Jose Soares </td>
+    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/b88d7774-7503-47d9-948e-91caabde01f6" width=100px> <br/> Natália F. </td>
+    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/d67a297e-8a1c-477d-b362-9a8f66582743" width=100px> <br/> Marlon H. </td>
+    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/38d26713-0fd1-4402-a8d8-4e2aeb1a41ad" width=100px> <br/> Rebeca Louise </td>
+    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/bb8c7630-56b9-4543-a159-d45c2f4c6617" width=100px> <br/> Taise Ferreira </td>
