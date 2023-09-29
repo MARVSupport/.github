@@ -52,3 +52,9 @@ Estamos comprometidos em fornecer a você uma ferramenta poderosa para aprimorar
     <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/d67a297e-8a1c-477d-b362-9a8f66582743" width=100px> <br/> Marlon H. </td>
     <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/38d26713-0fd1-4402-a8d8-4e2aeb1a41ad" width=100px> <br/> Rebeca Louise </td>
     <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/bb8c7630-56b9-4543-a159-d45c2f4c6617" width=100px> <br/> Taise Ferreira </td>
+    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/ed65b2ca-1cd4-4d2b-90ad-02a900dc26b1" width=100px> <br/> Victor Silva </td>
+    </tr>
+</table>   
+
+## Licença
+Este projeto esta de acordo com a licença [MIT](./LICENSE).
