@@ -1,6 +1,6 @@
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
 
-<img src="https://github.com/MARVSupport/Perfil/assets/114708609/c03f23ff-3de4-496e-ab69-3f3b661cb51f" > </p>
+<img src=" > </p>
 
 
  <p align="center"> 
