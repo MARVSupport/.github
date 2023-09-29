@@ -47,7 +47,7 @@ Estamos comprometidos em fornecer a você uma ferramenta poderosa para aprimorar
 <table>
  <tr> 
     <td align="center"> <img  src="https://github.com/MARVSupport/.github/assets/114708609/7b5a51e0-e429-4e14-b6a9-4cf0e66ebc8c" width=100px> <br/> Jéssica Castro </td>
-    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/1202f1ae-d088-4dc8-8ed4-e248f4caf831" width=100px> <br/> Jose Soares </td>
+    <td align="center"> <img  src="https://github.com/MARVSupport/.github/assets/114708609/1202f1ae-d088-4dc8-8ed4-e248f4caf831" width=100px> <br/> Jose Soares </td>
     <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/b88d7774-7503-47d9-948e-91caabde01f6" width=100px> <br/> Natália F. </td>
     <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/d67a297e-8a1c-477d-b362-9a8f66582743" width=100px> <br/> Marlon H. </td>
     <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/38d26713-0fd1-4402-a8d8-4e2aeb1a41ad" width=100px> <br/> Rebeca Louise </td>
