@@ -1,6 +1,6 @@
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
 
-<img src=" > </p>
+<img src="https://github.com/MARVSupport/.github/assets/114708609/44b51071-aa31-44e0-8a97-7cc7111acbdd"> </p>
 
 
  <p align="center"> 
@@ -29,8 +29,8 @@ Estamos comprometidos em fornecer a você uma ferramenta poderosa para aprimorar
 
 ## Layout
 
-<p align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/1e806781-eb82-44f7-8901-30d2491427f7"  width="600px;"> </p>
-<p align="center"> <img src="https://github.com/MARVSupport/Perfil/assets/114708609/a76a143b-e1fb-4944-b55f-7de05d22d9ed" width="610">
+<p align="center"> <img  src="https://github.com/MARVSupport/.github/assets/114708609/75d50787-6697-46ee-8ec6-2df58d63f361"  width="600px;"> </p>
+<p align="center"> <img src="https://github.com/MARVSupport/.github/assets/114708609/0c07face-c962-4666-841f-208967276de1" width="610">
 
  
 ## Guia do usuário
@@ -46,7 +46,7 @@ Estamos comprometidos em fornecer a você uma ferramenta poderosa para aprimorar
 
 <table>
  <tr> 
-    <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/b1e3ff0d-09fd-431b-a939-2ba0d85796cf" width=100px> <br/> Jéssica Castro </td>
+    <td align="center"> <img  src="https://github.com/MARVSupport/.github/assets/114708609/7b5a51e0-e429-4e14-b6a9-4cf0e66ebc8c" width=100px> <br/> Jéssica Castro </td>
     <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/1202f1ae-d088-4dc8-8ed4-e248f4caf831" width=100px> <br/> Jose Soares </td>
     <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/b88d7774-7503-47d9-948e-91caabde01f6" width=100px> <br/> Natália F. </td>
     <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/d67a297e-8a1c-477d-b362-9a8f66582743" width=100px> <br/> Marlon H. </td>
@@ -54,7 +54,8 @@ Estamos comprometidos em fornecer a você uma ferramenta poderosa para aprimorar
     <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/bb8c7630-56b9-4543-a159-d45c2f4c6617" width=100px> <br/> Taise Ferreira </td>
     <td align="center"> <img  src="https://github.com/MARVSupport/Perfil/assets/114708609/ed65b2ca-1cd4-4d2b-90ad-02a900dc26b1" width=100px> <br/> Victor Silva </td>
     </tr>
-</table>   
+</table> 
+
 
 ## Licença
 Este projeto esta de acordo com a licença [MIT](./LICENSE).
