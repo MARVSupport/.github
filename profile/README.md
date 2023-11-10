@@ -29,8 +29,9 @@ Estamos comprometidos em fornecer a você uma ferramenta poderosa para aprimorar
 
 ## Layout
 
-<p align="center"> <img  src="https://github.com/MARVSupport/.github/assets/114708609/75d50787-6697-46ee-8ec6-2df58d63f361"  width="600px;"> </p>
-<p align="center"> <img src="https://github.com/MARVSupport/.github/assets/114708609/0c07face-c962-4666-841f-208967276de1" width="610">
+![Imagem do WhatsApp de 2023-10-19 à(s) 22 37 24_5fabd6e6](https://github.com/MARVSupport/.github/assets/120400375/ac766bae-0143-4beb-86a6-e5f35a6e90b8)
+![Imagem do WhatsApp de 2023-10-19 à(s) 22 41 37_49f09c56](https://github.com/MARVSupport/.github/assets/120400375/3a6fe704-3b69-4827-93d7-6170ead1b084)
+
 
  
 ## Guia do usuário
