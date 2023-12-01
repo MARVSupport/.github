@@ -17,11 +17,11 @@
 
 ## Sobre a MARV Support: 
 <p align="justify">
-Este é o repositório de documentação para o Software de Recebimento e Resolução de Chamados! Nosso sistema foi projetado para simplificar e otimizar o processo de gerenciamento de solicitações e incidentes em sua organização, resolvendo problemas de maneira mais eficaz.  O Software da MARV  é uma ferramenta versátil que permite à sua equipe de suporte ou atendimento ao cliente receber, priorizar e resolver rapidamente as solicitações e incidentes dos clientes ou usuários internos. Com recursos avançados de rastreamento e relatórios, este software é a solução ideal para organizações de todos os tamanhos que desejam aprimorar a experiência do cliente e a eficiência operacional. </p>
+Este é o repositório de documentação para o Software de Recebimento e Resolução de Chamados! Nosso sistema foi projetado para simplificar e otimizar o processo de gerenciamento de solicitações e incidentes em sua organização, resolvendo problemas de maneira mais eficaz.  O Software da MARV  é uma ferramenta versátil que permite à sua equipe de suporte ou atendimento ao cliente receber, priorizar e resolver rapidamente as solicitações e incidentes dos clientes ou usuários internos. Com recursos avançados, este software é a solução ideal para organizações de todos os tamanhos que desejam aprimorar a experiência do cliente e a eficiência operacional. </p>
 
 
 ## Funcionalidades
-<p align="justify">Capture todas as solicitações de suporte, incidentes ou problemas em um único local, nosso sistema conta com sistema de login com credenciais, registro de chamados abertos e visualização detalhada dos mesmos, edição de informações, exportação de relatórios em diferentes formatos, sistema hierárquico que proporciona usuários e administradores a terem diferentes permissões baseadas em rank, envio de notificação por email quando um novo chamado for aberto ou finalizado, edição de perfil de usuarios (nome, email, etc), alterações de configurações do sistema, filtragem de pesquisa para encontrar dados específicos, entre outros. 
+<p align="justify">Capture todas as solicitações de suporte, incidentes ou problemas em um único local, nosso sistema conta com sistema de login com credenciais, registro de chamados abertos e visualização detalhada dos mesmos, edição de informações, sistema hierárquico que proporciona usuários e administradores a terem diferentes permissões, envio de notificação por email quando um novo chamado for aberto, edição de perfil de usuarios (email, etc), alterações de configurações do sistema, filtragem de pesquisa para encontrar dados específicos, entre outros.
 Acompanhe o progresso de cada chamado em tempo real, mantendo todos os envolvidos informados sobre o status e ações tomadas.
 Estamos comprometidos em fornecer a você uma ferramenta poderosa para aprimorar seu gerenciamento e impulsionar o sucesso da sua organização. </p>
 
@@ -30,7 +30,8 @@ Estamos comprometidos em fornecer a você uma ferramenta poderosa para aprimorar
 ## Layout
 
 ![Imagem do WhatsApp de 2023-10-19 à(s) 22 37 24_5fabd6e6](https://github.com/MARVSupport/.github/assets/120400375/ac766bae-0143-4beb-86a6-e5f35a6e90b8)
-![Imagem do WhatsApp de 2023-10-19 à(s) 22 41 37_49f09c56](https://github.com/MARVSupport/.github/assets/120400375/3a6fe704-3b69-4827-93d7-6170ead1b084)
+![image](https://github.com/MARVSupport/.github/assets/120400375/14d271e4-bebd-4733-97de-91aa710a827e)
+
 
 
  
