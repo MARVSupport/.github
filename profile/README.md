@@ -31,6 +31,8 @@ Estamos comprometidos em fornecer a você uma ferramenta poderosa para aprimorar
 
 ![Imagem do WhatsApp de 2023-10-19 à(s) 22 37 24_5fabd6e6](https://github.com/MARVSupport/.github/assets/120400375/ac766bae-0143-4beb-86a6-e5f35a6e90b8)
 ![image](https://github.com/MARVSupport/.github/assets/120400375/14d271e4-bebd-4733-97de-91aa710a827e)
+![image](https://github.com/MARVSupport/.github/assets/120400375/c1752386-08cb-470e-8b28-6c678477aaf7)
+
 
 
 
