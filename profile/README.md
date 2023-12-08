@@ -5,7 +5,7 @@
 
  <p align="center"> 
  Bem-vindo a página de apresentação da MARV Support! 👋 <p/>
-
+ Atual versão: v1.0.2
  <p align="center">
  <a href="#sobre-a-marv-support">Sobre</a> •
  <a href="#funcionalidades">Funcionalidades</a> •
@@ -14,6 +14,7 @@
  <a href="#contribuidores">Contribuidores</a> • 
  <a href="#licença">Licença</a>
 </p>
+
 
 ## Sobre a MARV Support: 
 <p align="justify">
